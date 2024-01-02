@@ -31,7 +31,11 @@ A single-player dice game using random number generation, complex scoring logic,
 💻 [Deployed Site](https://yahtzee-dice-6d5009f4b077.herokuapp.com/)<br>
 :octocat: [GitHub Repo](https://github.com/alanjameschapman/yahtzee)
 
+### Activity Stats
+
 [![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanjameschapman&show=stars,commits,prs,issues&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Codewars](https://github.r2v.ch/codewars?user=alanjameschapman&stroke=%23BB432C)
 
 ## Additional Highlights 🌈
 
