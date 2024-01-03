@@ -35,7 +35,7 @@ A single-player dice game using random number generation, complex scoring logic,
 
 [![Alan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alanjameschapman&show=stars,commits,prs,issues&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Alan's Codewars Stats](https://github.r2v.ch/codewars?user=alanjameschapman&name=true&top_languages=true&stroke=%23BB432C&theme=radical)
+![Codewars](https://github.r2v.ch/codewars?user=alanjameschapman&stroke=%23BB432C)
 
 ## Additional Highlights 🌈
 
