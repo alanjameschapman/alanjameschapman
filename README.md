@@ -66,7 +66,7 @@ A single-player dice game using random number generation, complex scoring logic,
 
 ## Additional Highlights 🌈
 
-✉️ Actively engaged in coding communities and committed to continuous learning through coding subscriptions.<br>
+👨‍💻 Actively engaged in coding communities and committed to continuous learning through coding subscriptions.<br>
 🏃 Runner (Edinburgh and Mountain Marathons) and cyclist. 🚲<br>
 🎹 Grade 8 piano and tuned percussion, grade 4 violin, and Puzzler addict... 🧩
 
