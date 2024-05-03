@@ -64,6 +64,8 @@ A single-player dice game using random number generation, complex scoring logic,
 
 ![Codewars](https://github.r2v.ch/codewars?user=alanjameschapman&stroke=%23BB432C)
 
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/notebook)
+
 ![alanjameschapman](https://road-to-kaggle-grandmaster.vercel.app/api/simple/alanjameschapman)
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/alanjameschapman/competition)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/alanjameschapman/dataset)
