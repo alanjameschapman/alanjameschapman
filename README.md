@@ -70,6 +70,9 @@ A single-player dice game using random number generation, complex scoring logic,
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/alanjameschapman/notebook)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/alanjameschapman/discussion)
 
+![default version](https://road-to-kaggle-grandmaster.vercel.app/api/badges/alanjameschapman/competition)
+![light version](https://road-to-kaggle-grandmaster.vercel.app/api/badges/alanjameschapman/competition/light)
+
 ## Additional Highlights 🌈
 
 👨‍💻 Actively engaged in coding communities and committed to continuous learning through coding subscriptions.<br>
