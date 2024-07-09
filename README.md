@@ -6,31 +6,31 @@ I'm Alan Chapman, a Full Stack Software Developer with Predictive Analytics spec
 
 My portfolio is growing - below is a summary of projects thus far...
 
-### 🐶 Mobile Vet (HTML and CSS)
+### Mobile Vet (HTML and CSS)
 
 Fully responsive static site using Balsamiq wireframes and mobile-first approach. Exemplary semantic structure and suitable/contrasting colour schemes. Features include form, embedded map, and calendly scheduling. HTML and CSS fully validated.
 
-💻  [Deployed Site](https://alanjameschapman.github.io/mobile-vet/) | :octocat:  [GitHub Repo](https://github.com/alanjameschapman/mobile-vet/)
+🐶 [Site](https://alanjameschapman.github.io/mobile-vet/) | :octocat:  [Repo](https://github.com/alanjameschapman/mobile-vet/)
 
-### 🍅 Fruity Fun (HTML, CSS and Javascript)
+### Fruity Fun (HTML, CSS and Javascript)
 
 Fun game to learn simultaneous equations, with a focus on UI (difficulty selector) and user feedback (score tally, reactive elements). Random numbers generated were validated for realism and variation e.g. positive values, different values per fruit.<br>
-💻 [Deployed Site](https://alanjameschapman.github.io/fruity-fun/) | :octocat: [GitHub Repo](https://github.com/alanjameschapman/fruity-fun/)
+🍅 [Site](https://alanjameschapman.github.io/fruity-fun/) | :octocat: [Repo](https://github.com/alanjameschapman/fruity-fun/)
 
-### 🎲 Yahtzee (Python)
+### Yahtzee (Python)
 
 Single-player dice game using random number generation, complex scoring logic and personal best functionality. Fully tested User Stories and Functions. Bugs documented using GitHub Issues function. Fully linted using pep8 Linter.<br>
-💻 [Deployed Site](https://yahtzee-dice-6d5009f4b077.herokuapp.com/) | :octocat: [GitHub Repo](https://github.com/alanjameschapman/yahtzee)
+🎲 [Site](https://yahtzee-dice-6d5009f4b077.herokuapp.com/) | :octocat: [Repo](https://github.com/alanjameschapman/yahtzee)
 
-### 🎓 Whiteboard (Full Stack)
+### Whiteboard (Full Stack)
 
 Python and JavaScript within a Django framework, and Agile principles. Using ERDs and DTL, logged in users (admin, teacher or student) have tailored CRUD functionality. Deployed continuously to ensure smooth integration of new features.<br>
-💻 [Deployed Site](https://whiteboard-app-742f545f1848.herokuapp.com) | :octocat: [GitHub Repo](https://github.com/alanjameschapman/whiteboard)
+🎓 [Site](https://whiteboard-app-742f545f1848.herokuapp.com) | :octocat: [Repo](https://github.com/alanjameschapman/whiteboard)
 
-### 📈 Pet Image Classifier (Predictive Analytics)
+### Pet Image Classifier (Predictive Analytics)
 
 Python, Jupyter notebooks, Keras, Tensorflow and transfer learning used to create a custom machine learning model which can predict the breed of an uploaded image via a Streamlit dashboard.<br>
-💻 [Deployed Site](https://pet-image-classifier-5fbc327c6281.herokuapp.com) | :octocat: [GitHub Repo](https://github.com/alanjameschapman/pet-image-classifier)
+📈 [Site](https://pet-image-classifier-5fbc327c6281.herokuapp.com) | :octocat: [Repo](https://github.com/alanjameschapman/pet-image-classifier)
 
 ### Skill Stacks
 
@@ -61,4 +61,4 @@ I am actively seeking employment and I'm excited about the prospect of bringing 
 
 📧 Email: alanjameschapman@gmail.com <br>
 🔗 LinkedIn: [linkedin.com/in/alanjameschapman](https://www.linkedin.com/in/alanjameschapman/) <br>
-💻 Codewars: [profile](https://www.codewars.com/users/alanjameschapman)
+💻 Codewars: [profile here](https://www.codewars.com/users/alanjameschapman)
