@@ -6,31 +6,31 @@ I'm Alan Chapman, a Full Stack Software Developer with Predictive Analytics spec
 
 My portfolio is growing - below is a summary of projects thus far...
 
-### Mobile Vet (HTML and CSS)
+### Pet Image Classifier (Predictive Analytics)
 
-Fully responsive static site using Balsamiq wireframes and mobile-first approach. Exemplary semantic structure and suitable/contrasting colour schemes. Features include form, embedded map, and calendly scheduling. HTML and CSS fully validated.
-
-🐶 [Site](https://alanjameschapman.github.io/mobile-vet/) | :octocat:  [Repo](https://github.com/alanjameschapman/mobile-vet/)
-
-### Fruity Fun (HTML, CSS and Javascript)
-
-Fun game to learn simultaneous equations, with a focus on UI (difficulty selector) and user feedback (score tally, reactive elements). Random numbers generated were validated for realism and variation e.g. positive values, different values per fruit.<br>
-🍅 [Site](https://alanjameschapman.github.io/fruity-fun/) | :octocat: [Repo](https://github.com/alanjameschapman/fruity-fun/)
-
-### Yahtzee (Python)
-
-Single-player dice game using random number generation, complex scoring logic and personal best functionality. Fully tested User Stories and Functions. Bugs documented using GitHub Issues function. Fully linted using pep8 Linter.<br>
-🎲 [Site](https://yahtzee-dice-6d5009f4b077.herokuapp.com/) | :octocat: [Repo](https://github.com/alanjameschapman/yahtzee)
+Python, Jupyter notebooks, Keras, Tensorflow and transfer learning used to create a custom machine learning model which can predict the breed of an uploaded image via a Streamlit dashboard.<br>
+📈 [Site](https://pet-image-classifier-5fbc327c6281.herokuapp.com) | :octocat: [Repo](https://github.com/alanjameschapman/pet-image-classifier)
 
 ### Whiteboard (Full Stack)
 
 Python and JavaScript within a Django framework, and Agile principles. Using ERDs and DTL, logged in users (admin, teacher or student) have tailored CRUD functionality. Deployed continuously to ensure smooth integration of new features.<br>
 🎓 [Site](https://whiteboard-app-742f545f1848.herokuapp.com) | :octocat: [Repo](https://github.com/alanjameschapman/whiteboard)
 
-### Pet Image Classifier (Predictive Analytics)
+### Yahtzee (Python)
 
-Python, Jupyter notebooks, Keras, Tensorflow and transfer learning used to create a custom machine learning model which can predict the breed of an uploaded image via a Streamlit dashboard.<br>
-📈 [Site](https://pet-image-classifier-5fbc327c6281.herokuapp.com) | :octocat: [Repo](https://github.com/alanjameschapman/pet-image-classifier)
+Single-player dice game using random number generation, complex scoring logic and personal best functionality. Fully tested User Stories and Functions. Bugs documented using GitHub Issues function. Fully linted using pep8 Linter.<br>
+🎲 [Site](https://yahtzee-dice-6d5009f4b077.herokuapp.com/) | :octocat: [Repo](https://github.com/alanjameschapman/yahtzee)
+
+### Fruity Fun (HTML, CSS and Javascript)
+
+Fun game to learn simultaneous equations, with a focus on UI (difficulty selector) and user feedback (score tally, reactive elements). Random numbers generated were validated for realism and variation e.g. positive values, different values per fruit.<br>
+🍅 [Site](https://alanjameschapman.github.io/fruity-fun/) | :octocat: [Repo](https://github.com/alanjameschapman/fruity-fun/)
+
+### Mobile Vet (HTML and CSS)
+
+Fully responsive static site using Balsamiq wireframes and mobile-first approach. Exemplary semantic structure and suitable/contrasting colour schemes. Features include form, embedded map, and calendly scheduling. HTML and CSS fully validated.
+
+🐶 [Site](https://alanjameschapman.github.io/mobile-vet/) | :octocat:  [Repo](https://github.com/alanjameschapman/mobile-vet/)
 
 ### Skill Stacks
 
