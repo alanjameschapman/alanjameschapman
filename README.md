@@ -1,6 +1,6 @@
 # Welcome to my GitHub Profile 👋
 
-I'm Alan Chapman, a Full Stack Software Developer with Predictive Analytics specialisation. I harness my skills and experiences to create software which adds real value to a wide range of industries: Engineering, education, businesses and beyond.
+I'm Alan, a Full Stack Software Developer with Predictive Analytics specialisation. I harness my skills and experiences to create software which adds real value to a wide range of industries: Engineering, education, businesses and beyond.
 
 ## Project Portfolio
 
@@ -50,8 +50,8 @@ Fully responsive static site using Balsamiq wireframes and mobile-first approach
 📈 Accomplished with Python, SQL, Excel and Data Science tools and skills.<br>
 🎓 MEng in Mechanical Engineering from Edinburgh University and a PGCE in Physics and Science from Leeds Trinity. PRINCE2 Foundation Project Management and Agile qualifications. Highly motivated and proactive approach to learning<br>
 🌟 Tenacious problem-solver with over 15 years experience in technical Engineering roles. Great time management, empathy and other invaluable soft skills honed over 3 years in secondary school Science/Physics education.<br>
-👨‍💻 ‘Hackathon’ Dec 2023 - team challenge to build a festive website with an agile approach and using HTML, CSS, JavaScript and Bootstrap. Overcame challenges of a tight deadline, participant drop-out, language barriers and collaborative version control.<br>
-🏃 completed 2 Mountain Marathons and Edinburgh Marathon, raising £600 for BHF. Edinburgh University squash, Ilkley and Wharfedale Harriers running, Thirsk Cycling.🚲<br>
+👨‍💻 3x Hackathons with Code Institute - team challenges (~5 coders) to build a themed website over 4 days using agile methodology. Overcame challenges of a tight deadline, participant drop-out, language barriers and collaborative version control.<br>
+🏃 Completed 2 Mountain Marathons and Edinburgh Marathon, raising £600 for BHF. Edinburgh University squash, Ilkley and Wharfedale Harriers running, Thirsk Cycling.🚲<br>
 🎹 Grade 8 piano and tuned percussion, grade 4 violin, and Puzzler addict... 🧩
 
 
