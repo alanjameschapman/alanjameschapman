@@ -42,10 +42,6 @@ Fully responsive static site using Balsamiq wireframes and mobile-first approach
 
 [![Alan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alanjameschapman&show=stars,commits,prs,issues&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Codewars](https://github.r2v.ch/codewars?user=alanjameschapman&stroke=%23BB432C)
-
-<iframe src="https://hackerrank-badge.herokuapp.com/alanjameschapman" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>
-
 
 ## More About Me
 
