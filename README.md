@@ -50,7 +50,7 @@ Fully responsive static site using Balsamiq wireframes and mobile-first approach
 ## More About Me
 
 📈 Accomplished with Python, SQL, Excel and Data Science tools and skills.<br>
-🎓 MEng in Mechanical Engineering from Edinburgh University and a PGCE in Physics and Science from Leeds Trinity. PRINCE2 Foundation Project Management and Agile qualifications. Highly motivated and proactive approach to learning<br>
+🎓 MEng in Mechanical Engineering from Edinburgh University and a PGCE in Physics and Science from Leeds Trinity. AgilePM qualifications, accredited by APMG-International™ . Highly motivated and proactive approach to learning<br>
 🌟 Tenacious problem-solver with over 15 years experience in technical Engineering roles. Great time management, empathy and other invaluable soft skills honed over 3 years in secondary school Science/Physics education.<br>
 👨‍💻 3x Hackathons with Code Institute - team challenges (~5 coders) to build a themed website over 4 days using agile methodology. Common challenges overcome: tight deadlines, participant drop-outs, language barriers and collaborative version control.<br>
 🏃 Completed 2 Mountain Marathons and Edinburgh Marathon, raising £600 for BHF. Edinburgh University squash, Ilkley and Wharfedale Harriers running, Thirsk Cycling.🚲<br>
