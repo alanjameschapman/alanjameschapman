@@ -7,7 +7,7 @@ My portfolio is growing - below is a summary of projects thus far...
 ### Pet Image Classifier (Predictive Analytics)
 
 Python, Jupyter notebooks, Keras, Tensorflow and transfer learning used to create a custom machine learning model which can predict the breed of an uploaded image via a Streamlit dashboard.<br>
-📈 [Site](https://pet-image-classifier-5fbc327c6281.herokuapp.com) and [Repo](https://github.com/alanjameschapman/pet-image-classifier)
+📈 [Site](https://pet-image-classifier-5fbc327c6281.herokuapp.com) and [repo](https://github.com/alanjameschapman/pet-image-classifier)
 
 ### Whiteboard (Full Stack)
 
