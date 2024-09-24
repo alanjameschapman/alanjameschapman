@@ -63,4 +63,4 @@ I am actively seeking employment and I'm excited about the prospect of bringing 
 
 📧 Email: alanjameschapman@gmail.com <br>
 🔗 LinkedIn: [linkedin.com/in/alanjameschapman](https://www.linkedin.com/in/alanjameschapman/) <br>
-💻 Codewars: [profile here](https://www.codewars.com/users/alanjameschapman)
+💻 HackerRank: [profile here](https://www.hackerrank.com/profile/alanjameschapman)
